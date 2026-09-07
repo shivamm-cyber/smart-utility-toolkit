@@ -1,5 +1,3 @@
-// app.js - Uses custom modules (isEven and logger)
-
 const isEven = require("./modules/isEven");
 const log = require("./modules/logger");
 

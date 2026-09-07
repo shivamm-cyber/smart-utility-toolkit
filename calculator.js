@@ -1,5 +1,3 @@
-// calculator.js - CLI Calculator using process.argv
-
 const args = process.argv.slice(2);
 
 const operation = args[0];

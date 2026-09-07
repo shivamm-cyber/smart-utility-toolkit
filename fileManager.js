@@ -1,5 +1,3 @@
-// fileManager.js - File operations using fs module
-
 const fs = require("fs");
 
 const fileName = "test.txt";

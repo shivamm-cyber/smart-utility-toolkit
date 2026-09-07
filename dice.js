@@ -1,5 +1,3 @@
-// dice.js - Random Dice Generator using crypto module
-
 const crypto = require("crypto");
 
 console.log("Rolling dice...");

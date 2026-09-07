@@ -1,5 +1,3 @@
-// server.js - HTTP Server using http module
-
 const http = require("http");
 
 const server = http.createServer((req, res) => {
